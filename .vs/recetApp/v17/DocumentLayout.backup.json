@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\recetApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\views\\favoriterecipespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\views\\favoriterecipespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\views\\favoriterecipespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\views\\favoriterecipespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\views\\favoritefoodspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\views\\favoritefoodspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\views\\favoritefoodspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\views\\favoritefoodspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\viewmodels\\favoriterecipesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\viewmodels\\favoriterecipesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\models\\favoritefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\models\\favoritefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\viewmodels\\favoritefoodsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\viewmodels\\favoritefoodsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|c:\\recetapp\\recetapp\\models\\favoriterecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2981EB22-080B-48D9-B17E-542350D04FE9}|recetApp\\recetApp.csproj|solutionrelative:recetapp\\models\\favoriterecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0672c6e1-9edf-3be9-8226-f0823640821e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FavoriteRecipesPage.xaml",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Views\\FavoriteRecipesPage.xaml",
+              "RelativeDocumentMoniker": "recetApp\\Views\\FavoriteRecipesPage.xaml",
+              "ToolTip": "C:\\recetApp\\recetApp\\Views\\FavoriteRecipesPage.xaml",
+              "RelativeToolTip": "recetApp\\Views\\FavoriteRecipesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T05:33:12.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FavoriteRecipesPage.xaml.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Views\\FavoriteRecipesPage.xaml.cs",
+              "RelativeDocumentMoniker": "recetApp\\Views\\FavoriteRecipesPage.xaml.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\Views\\FavoriteRecipesPage.xaml.cs",
+              "RelativeToolTip": "recetApp\\Views\\FavoriteRecipesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:41:56.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "recetApp\\MauiProgram.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\MauiProgram.cs",
+              "RelativeToolTip": "recetApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:18:38.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "recetApp\\App.xaml.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\App.xaml.cs",
+              "RelativeToolTip": "recetApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:58:53.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "recetApp\\Services\\ApiService.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\Services\\ApiService.cs",
+              "RelativeToolTip": "recetApp\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:31:23.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "recetApp\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "recetApp\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:33:56.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "recetApp\\Views\\HomePage.xaml.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "recetApp\\Views\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:46:04.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "recetApp\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\recetApp\\recetApp\\Views\\HomePage.xaml",
+              "RelativeToolTip": "recetApp\\Views\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T05:32:37.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FavoriteFoodsPage.xaml.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Views\\FavoriteFoodsPage.xaml.cs",
+              "RelativeDocumentMoniker": "recetApp\\Views\\FavoriteFoodsPage.xaml.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\Views\\FavoriteFoodsPage.xaml.cs",
+              "RelativeToolTip": "recetApp\\Views\\FavoriteFoodsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:40:47.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FavoriteFoodsPage.xaml",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Views\\FavoriteFoodsPage.xaml",
+              "RelativeDocumentMoniker": "recetApp\\Views\\FavoriteFoodsPage.xaml",
+              "ToolTip": "C:\\recetApp\\recetApp\\Views\\FavoriteFoodsPage.xaml",
+              "RelativeToolTip": "recetApp\\Views\\FavoriteFoodsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T05:32:57.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "recetApp\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "recetApp\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:33:45.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "recetApp\\BaseViewModel.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\BaseViewModel.cs",
+              "RelativeToolTip": "recetApp\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:02:30.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "recetApp\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "recetApp\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:42:24.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "recetApp\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\recetApp\\recetApp\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "recetApp\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T05:32:08.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\App.xaml",
+              "RelativeDocumentMoniker": "recetApp\\App.xaml",
+              "ToolTip": "C:\\recetApp\\recetApp\\App.xaml",
+              "RelativeToolTip": "recetApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T05:50:55.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FavoriteRecipesViewModel.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\ViewModels\\FavoriteRecipesViewModel.cs",
+              "RelativeDocumentMoniker": "recetApp\\ViewModels\\FavoriteRecipesViewModel.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\ViewModels\\FavoriteRecipesViewModel.cs",
+              "RelativeToolTip": "recetApp\\ViewModels\\FavoriteRecipesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:34:23.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FavoriteFood.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Models\\FavoriteFood.cs",
+              "RelativeDocumentMoniker": "recetApp\\Models\\FavoriteFood.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\Models\\FavoriteFood.cs",
+              "RelativeToolTip": "recetApp\\Models\\FavoriteFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:30:51.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "recetApp\\Models\\User.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\Models\\User.cs",
+              "RelativeToolTip": "recetApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:30:40.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FavoriteFoodsViewModel.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\ViewModels\\FavoriteFoodsViewModel.cs",
+              "RelativeDocumentMoniker": "recetApp\\ViewModels\\FavoriteFoodsViewModel.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\ViewModels\\FavoriteFoodsViewModel.cs",
+              "RelativeToolTip": "recetApp\\ViewModels\\FavoriteFoodsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:34:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FavoriteRecipe.cs",
+              "DocumentMoniker": "C:\\recetApp\\recetApp\\Models\\FavoriteRecipe.cs",
+              "RelativeDocumentMoniker": "recetApp\\Models\\FavoriteRecipe.cs",
+              "ToolTip": "C:\\recetApp\\recetApp\\Models\\FavoriteRecipe.cs",
+              "RelativeToolTip": "recetApp\\Models\\FavoriteRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:31:04.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

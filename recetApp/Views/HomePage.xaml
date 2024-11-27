@@ -1,0 +1,9 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RecetApp.Views.HomePage"
+             Title="Inicio">
+    <VerticalStackLayout Padding="20">
+        <Button Text="Alimentos Favoritos" Command="{Binding NavigateToFavoriteFoodsCommand}" />
+        <Button Text="Recetas Favoritas" Command="{Binding NavigateToFavoriteRecipesCommand}" />
+    </VerticalStackLayout>
+</ContentPage>
